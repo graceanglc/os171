@@ -1,0 +1,2 @@
+Pada lab sebelumnya yaitu Lab0 saya belajar bagaimana caranya menggunakan command line interface yaitu PuTTy dan bagaimana cara log in ke badak server.
+#Grace Angelica
