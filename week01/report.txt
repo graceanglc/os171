@@ -1,0 +1,1 @@
+Dalam Task01OS pada minggu ini saya belajar beberapa basics command yang sangat berguna, saya juga belajar bagaimana caranya menggunakan text editor seperti vvim di dalam CLI.
