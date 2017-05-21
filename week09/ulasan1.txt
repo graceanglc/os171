@@ -1,0 +1,7 @@
+GITHUB Account : graceanglc 
+URL Ulasan: http://graceanglc.blogspot.com/2017/05/multiprocessing-vs-multithreading.html 
+URL konten Youtube: https://www.youtube.com/watch?v=wPgsqatFXBo 
+Video Author: HowTo 
+Pemetaan konten: week06 
+Submisi Revisi Pertama : 21 Mei 2017 
+Submisi Revisi Terakhir: 21 Mei 2017 
